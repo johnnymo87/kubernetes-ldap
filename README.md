@@ -1,3 +1,11 @@
+#### LDAP Client
+
+This is just a proof of concept.
+
+This works with [this LDAP server](https://github.com/johnnymo87/ldapserver). See the server's readme for instructions.
+
+Below is the real readme.
+
 # kubernetes-ldap
 [![Build Status](https://travis-ci.org/kismatic/kubernetes-ldap.svg?branch=master)](https://travis-ci.org/kismatic/kubernetes-ldap)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kismatic/kubernetes-ldap)](https://goreportcard.com/report/github.com/kismatic/kubernetes-ldap)
